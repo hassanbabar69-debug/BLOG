@@ -36,5 +36,5 @@ app.get('/' , async(req,res)=>{
 
 
 app.listen(8000, "0.0.0.0", () => {
-    console.log("server started");
+    console.log("server started at 8000");
 });
